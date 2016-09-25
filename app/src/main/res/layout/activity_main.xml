@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="id.sch.smktelkom_mlg.learn.registrationfaych_animecorp.MainActivity">
+
+        <TextView
+            style="@style/Base.TextAppearance.AppCompat.Headline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Registration Faych-Anime Corp."
+            android:textColor="#000000"
+            android:textIsSelectable="true" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="250dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:contentDescription="1"
+            android:src="@drawable/lol" />
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/Name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Name" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/Year"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Birth Date : (DD MM YYYY)" />
+        </android.support.design.widget.TextInputLayout>
+
+        <TextView
+            android:id="@+id/Provenance"
+            style="@style/Base.TextAppearance.AppCompat.Headline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Provenance"
+            android:textColor="#7a7a7a"
+            android:textSize="25px" />
+
+        <Spinner
+            android:id="@+id/spinnerProvince"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:entries="@array/province" />
+
+        <Spinner
+            android:id="@+id/spinnerCity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/textViewJK"
+            style="@style/Base.TextAppearance.AppCompat.Headline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20px"
+            android:text="Gender :"
+            android:textColor="#7a7a7a"
+            android:textSize="25px" />
+
+        <RadioGroup
+            android:id="@+id/radioGroupJK"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/radioButtonLK"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="Gent" />
+
+            <RadioButton
+                android:id="@+id/radioButtonPR"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="Lady" />
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/textViewEducation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:text="Education" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center">
+
+            <CheckBox
+                android:id="@+id/checkBoxSMA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="Graduates" />
+
+            <CheckBox
+                android:id="@+id/checkBoxMHS"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="Colleger" />
+
+            <CheckBox
+                android:id="@+id/checkBoxKRJ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="Worked" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/buttonPOST"
+            style="@style/Base.TextAppearance.AppCompat.Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/bgbtn"
+            android:text="POST"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="#e2bcbc"
+            android:text="Your Data :"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#d19b40"
+            android:textColorHighlight="#6e5c5c" />
+
+        <TextView
+            android:id="@+id/textViewResult1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            tools:text="Result" />
+
+        <TextView
+            android:id="@+id/textViewResult2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Result" />
+
+        <TextView
+            android:id="@+id/textViewResult3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Result" />
+
+        <TextView
+            android:id="@+id/textViewResult4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Result" />
+    </LinearLayout>
+</ScrollView>
