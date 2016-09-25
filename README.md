@@ -13,10 +13,10 @@ Terimakasih,
 CEO Faych-Anime. Farah Noriffat_XIRPL1_13_4712/1431.070_SMKTELKOMMALANG
 
 
-![screenshot](https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-47-13.png)
-![screenshot](https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-48-17.png)
-![screenshot](https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-48-25.png)
+![screenshot](https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-47-25.png)
+![screenshot](https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-47-32.png)
+![screenshot](https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-47-54.png)
+![screenshot](https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-47-58.png)
 ![screenshot](https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-48-26.png)
-![screenshot](https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-48-30.png)
-![screenshot](https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-48-54.png)
-![screenshot](https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-48-58.png)
+![screenshot](https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-49-13.png)
+![screenshot](https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-49-17.png)
