@@ -8,17 +8,16 @@ Pengisian Registrasi harus diisi dengan sebenar-benar apa adanya. Pihak yang tel
 Pengisian registrasi juga diberikan petunjuk apabila pengisian terdapat error dan tidak sesuai. Nama harus diatas 3 huruf dan merupakan nama lengkap.
 Tanggal lahir harus dengan format DD MM YYYY dengan nominal angka. Provinsi dan Kota sesuai dengan domisili yang ada. Jenis Kelamin harus benar sesuai KTP.
 Centang pendidikan terakhir anda dan apabila pengalaman bekerja. Klik "Post" apabila selesai, dan anda akan ditunjukan hasil upload data anda dibawah button.
-
-Terimakasih,
-
-CEO Faych-Anime. 
 <br> 
+
+### Link APK Download
+ https://drive.google.com/file/d/0B2NVjFLHbKZ7MHRqRFFUcHZCQ1k/view?usp=sharing
+ <br>
 
 ### Screenshot Aplikasi
 <img src="https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-47-25.png" width="25%" height="25%">
 <img src="https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-47-32.png" width="25%" height="25%">
 <img src="https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-47-54.png" width="25%" height="25%">
-<img src="https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-47-58.png" width="25%" height="25%">
 <img src="https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-48-26.png" width="25%" height="25%">
 <img src="https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-49-13.png" width="25%" height="25%">
 <img src="https://github.com/faychan/Tugas001/blob/master/Screenshot_2016-09-25-23-49-17.png" width="25%" height="25%">
